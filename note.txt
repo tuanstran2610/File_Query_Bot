@@ -1,0 +1,3 @@
+docker run -p 6333:6333 -p 6334:6334 -v D:\Hoc\InternTask\VNTT_AI_Bot\QdrantDB:/qdrant/storage qdrant/qdrant
+
+groq api: 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
